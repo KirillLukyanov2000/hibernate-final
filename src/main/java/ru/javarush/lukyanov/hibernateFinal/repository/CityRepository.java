@@ -34,8 +34,10 @@ public class CityRepository implements Repository <City>{
     }
 
     @Override
-    public Optional<City> get(long id) {
-        return Optional.empty();
+    public City get(int id) {
+        Query<City> query = sessionFactory.getCurrentSession().createQuery("select c from City c join fetch c.country where c.id = :ID", City.class);
+        query.setParameter("ID", id);
+        return query.getSingleResult();
     }
 
     @Override

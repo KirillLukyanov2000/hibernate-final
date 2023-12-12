@@ -35,8 +35,8 @@ public class CountryRepository implements Repository <Country>{
     }
 
     @Override
-    public Optional<Country> get(long id) {
-        return Optional.empty();
+    public Country get(int id) {
+        return null;
     }
 
     @Override

@@ -1,33 +1,35 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù”ï¤8ğ”…êÅ1
-`
-java:S2583B"DChange this condition so that it does not always evaluate to "false"(Í£´=8ü”…êÅ1
->
-java:S1170"!Make this final field static too.(‡ùûõ8ü”…êÅ1
-X	java:S125""<This block of commented-out lines of code should be removed.(õç™¬8ÿ”…êÅ1
-Z
-java:S1854'"=Remove this useless assignment to local variable "allCities".(ğò8˜•…êÅ1
-K
-java:S1481'".Remove this unused "allCities" local variable.(ğò8š•…êÅ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù”ï¤8Íù™íÅ1
+s
+java:S3457;"Q%n should be used in place of \n to produce the platform-specific line separator.(ÎÆûïüÿÿÿÿ8¡ĞŠïÅ1
+L	java:S106;"+Replace this use of System.out by a logger.(ÎÆûïüÿÿÿÿ8˜¢êíÅ1
+s
+java:S3457<"Q%n should be used in place of \n to produce the platform-specific line separator.(Çœ¾ƒüÿÿÿÿ8§ĞŠïÅ1
+L	java:S106<"+Replace this use of System.out by a logger.(Çœ¾ƒüÿÿÿÿ8¨ĞŠïÅ1
 _
-java:S1117+"BRename "sessionFactory" which hides the field declared at line 22.(îµê–8š•…êÅ1
+java:S1117B"BRename "sessionFactory" which hides the field declared at line 24.(îµê–8‰ú™íÅ1
 m
-java:S3252-"KUse static access with "org.hibernate.cfg.AvailableSettings" for "DIALECT".(³ú®ÿÿÿÿÿ8œ•…êÅ1
+java:S3252D"KUse static access with "org.hibernate.cfg.AvailableSettings" for "DIALECT".(³ú®ÿÿÿÿÿ8‹ú™íÅ1
 g
-java:S3252."JUse static access with "org.hibernate.cfg.AvailableSettings" for "DRIVER".(ŠåÔâ8œ•…êÅ1
+java:S3252E"JUse static access with "org.hibernate.cfg.AvailableSettings" for "DRIVER".(ŠåÔâ8Œú™íÅ1
 i
-java:S3252/"GUse static access with "org.hibernate.cfg.AvailableSettings" for "URL".(ˆ¡ªûÿÿÿÿ8•…êÅ1
+java:S3252F"GUse static access with "org.hibernate.cfg.AvailableSettings" for "URL".(ˆ¡ªûÿÿÿÿ8Œú™íÅ1
 j
-java:S32520"HUse static access with "org.hibernate.cfg.AvailableSettings" for "USER".(Ì¦ˆ÷øÿÿÿÿ8•…êÅ1
+java:S3252G"HUse static access with "org.hibernate.cfg.AvailableSettings" for "USER".(Ì¦ˆ÷øÿÿÿÿ8Œú™íÅ1
 j
-java:S32521"HUse static access with "org.hibernate.cfg.AvailableSettings" for "PASS".(Óß ´şÿÿÿÿ8•…êÅ1
+java:S3252H"HUse static access with "org.hibernate.cfg.AvailableSettings" for "PASS".(Óß ´şÿÿÿÿ8ú™íÅ1
 ƒ
-java:S32522"aUse static access with "org.hibernate.cfg.AvailableSettings" for "CURRENT_SESSION_CONTEXT_CLASS".(Ä…×¢úÿÿÿÿ8•…êÅ1
+java:S3252I"aUse static access with "org.hibernate.cfg.AvailableSettings" for "CURRENT_SESSION_CONTEXT_CLASS".(Ä…×¢úÿÿÿÿ8ú™íÅ1
 m
-java:S32523"PUse static access with "org.hibernate.cfg.AvailableSettings" for "HBM2DDL_AUTO".(µù¦©8•…êÅ1
+java:S3252J"PUse static access with "org.hibernate.cfg.AvailableSettings" for "HBM2DDL_AUTO".(µù¦©8ú™íÅ1
 t
-java:S32524"XUse static access with "org.hibernate.cfg.AvailableSettings" for "STATEMENT_BATCH_SIZE".(‹ßa8•…êÅ1
-P
-java:S1481J".Remove this unused "countries" local variable.(Ÿ……Ÿıÿÿÿÿ8š­¦êÅ1
-L
-java:S1068"*Remove this unused "mapper" private field.(¤¡Ùêøÿÿÿÿ8®•…êÅ1
+java:S3252K"XUse static access with "org.hibernate.cfg.AvailableSettings" for "STATEMENT_BATCH_SIZE".(‹ßa8ú™íÅ1
+\
+java:S1117`"?Rename "redisClient" which hides the field declared at line 25.(Ñ¶œ£8—¢êíÅ1
+G	java:S106b"+Replace this use of System.out by a logger.(ÙœĞ8ÓĞŠïÅ1
+Q
+java:S1481‡".Remove this unused "countries" local variable.(Ÿ……Ÿıÿÿÿÿ8›ú™íÅ1
+Q
+java:S1481—".Remove this unused "languages" local variable.(«Ö£•ıÿÿÿÿ8è±„ïÅ1
+p
+java:S6204¸"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œçÖß8ÃÌŞîÅ1

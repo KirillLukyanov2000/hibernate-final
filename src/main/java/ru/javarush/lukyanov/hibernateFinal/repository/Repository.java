@@ -14,7 +14,7 @@ public interface Repository<T> {
 
     T update(T entity);
 
-    Optional<T> get(long id);
+    T get(int id);
 
     List<T> getItems(int offset, int count);
 
