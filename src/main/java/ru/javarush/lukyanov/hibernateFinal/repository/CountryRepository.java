@@ -5,14 +5,14 @@ import org.hibernate.query.Query;
 import ru.javarush.lukyanov.hibernateFinal.entity.Country;
 
 import java.util.List;
-import java.util.Optional;
 
-public class CountryRepository implements Repository <Country>{
+public class CountryRepository implements Repository<Country> {
     private final SessionFactory sessionFactory;
 
     public CountryRepository(SessionFactory sessionFactory) {
         this.sessionFactory = sessionFactory;
     }
+
     @Override
     public List<Country> getAll() {
         Query<Country> query = sessionFactory.getCurrentSession().createQuery("select c from Country c join fetch c.languages", Country.class);

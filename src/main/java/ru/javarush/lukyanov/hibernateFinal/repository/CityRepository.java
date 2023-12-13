@@ -5,13 +5,14 @@ import org.hibernate.query.Query;
 import ru.javarush.lukyanov.hibernateFinal.entity.City;
 
 import java.util.List;
-import java.util.Optional;
 
-public class CityRepository implements Repository <City>{
+public class CityRepository implements Repository<City> {
     private final SessionFactory sessionFactory;
+
     public CityRepository(SessionFactory sessionFactory) {
         this.sessionFactory = sessionFactory;
     }
+
     @Override
     public List<City> getAll() {
         return null;

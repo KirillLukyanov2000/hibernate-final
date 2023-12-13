@@ -1,9 +1,8 @@
 package ru.javarush.lukyanov.hibernateFinal.repository;
 
-import jakarta.persistence.criteria.CriteriaBuilder;
 
 import java.util.List;
-import java.util.Optional;
+
 
 public interface Repository<T> {
     List<T> getAll();
