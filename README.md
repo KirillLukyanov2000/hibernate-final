@@ -18,13 +18,13 @@
 
 - First test run:
 
-  <image src="C:\Users\zarad\IdeaProjects\hibernate-final\src\main\resources\images\1-st test run.JPG"/>
+  ![1-st test run](https://github.com/KirillLukyanov2000/images/assets/101703819/b084fc81-ab79-4565-a6c0-853687dc932c)
  
 - Second test run:
 
-  <image src="C:\Users\zarad\IdeaProjects\hibernate-final\src\main\resources\images\2-nd test run.JPG"/>
+  ![2-nd test run](https://github.com/KirillLukyanov2000/images/assets/101703819/f35d5c81-3f29-42b1-b65d-45c1eee63c9f)
 
 - Third test run:
 
-  <image src="C:\Users\zarad\IdeaProjects\hibernate-final\src\main\resources\images\3-rd test run.JPG"/>
+  ![3-rd test run](https://github.com/KirillLukyanov2000/images/assets/101703819/7bf5171d-9466-459f-a8e6-bc6c39be37bb)
 
