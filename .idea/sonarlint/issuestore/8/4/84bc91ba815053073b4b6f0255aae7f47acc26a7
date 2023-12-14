@@ -1,35 +1,15 @@
 
-v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù”ï¤8Íù™íÅ1
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ù”ï¤8†Õ£»Æ1
 s
-java:S3457;"Q%n should be used in place of \n to produce the platform-specific line separator.(ÎÆûïüÿÿÿÿ8¡ĞŠïÅ1
-L	java:S106;"+Replace this use of System.out by a logger.(ÎÆûïüÿÿÿÿ8˜¢êíÅ1
+java:S3457<"Q%n should be used in place of \n to produce the platform-specific line separator.(ÎÆûïüÿÿÿÿ8ÅÕ£»Æ1
+L	java:S106<"+Replace this use of System.out by a logger.(ÎÆûïüÿÿÿÿ8ÆÕ£»Æ1
 s
-java:S3457<"Q%n should be used in place of \n to produce the platform-specific line separator.(Çœ¾ƒüÿÿÿÿ8§ĞŠïÅ1
-L	java:S106<"+Replace this use of System.out by a logger.(Çœ¾ƒüÿÿÿÿ8¨ĞŠïÅ1
+java:S3457="Q%n should be used in place of \n to produce the platform-specific line separator.(Çœ¾ƒüÿÿÿÿ8ÆÕ£»Æ1
+L	java:S106="+Replace this use of System.out by a logger.(Çœ¾ƒüÿÿÿÿ8ÆÕ£»Æ1
 _
-java:S1117B"BRename "sessionFactory" which hides the field declared at line 24.(îµê–8‰ú™íÅ1
-m
-java:S3252D"KUse static access with "org.hibernate.cfg.AvailableSettings" for "DIALECT".(³ú®ÿÿÿÿÿ8‹ú™íÅ1
-g
-java:S3252E"JUse static access with "org.hibernate.cfg.AvailableSettings" for "DRIVER".(ŠåÔâ8Œú™íÅ1
-i
-java:S3252F"GUse static access with "org.hibernate.cfg.AvailableSettings" for "URL".(ˆ¡ªûÿÿÿÿ8Œú™íÅ1
-j
-java:S3252G"HUse static access with "org.hibernate.cfg.AvailableSettings" for "USER".(Ì¦ˆ÷øÿÿÿÿ8Œú™íÅ1
-j
-java:S3252H"HUse static access with "org.hibernate.cfg.AvailableSettings" for "PASS".(Óß ´şÿÿÿÿ8ú™íÅ1
-ƒ
-java:S3252I"aUse static access with "org.hibernate.cfg.AvailableSettings" for "CURRENT_SESSION_CONTEXT_CLASS".(Ä…×¢úÿÿÿÿ8ú™íÅ1
-m
-java:S3252J"PUse static access with "org.hibernate.cfg.AvailableSettings" for "HBM2DDL_AUTO".(µù¦©8ú™íÅ1
-t
-java:S3252K"XUse static access with "org.hibernate.cfg.AvailableSettings" for "STATEMENT_BATCH_SIZE".(‹ßa8ú™íÅ1
-\
-java:S1117`"?Rename "redisClient" which hides the field declared at line 25.(Ñ¶œ£8—¢êíÅ1
-G	java:S106b"+Replace this use of System.out by a logger.(ÙœĞ8ÓĞŠïÅ1
+java:S1117C"BRename "sessionFactory" which hides the field declared at line 24.(îµê–8ÇÕ£»Æ1
+G	java:S106Y"+Replace this use of System.out by a logger.(ÙœĞ8×Õ£»Æ1
+P
+java:S1481~".Remove this unused "countries" local variable.(Ÿ……Ÿıÿÿÿÿ8ÜÕ£»Æ1
 Q
-java:S1481‡".Remove this unused "countries" local variable.(Ÿ……Ÿıÿÿÿÿ8›ú™íÅ1
-Q
-java:S1481—".Remove this unused "languages" local variable.(«Ö£•ıÿÿÿÿ8è±„ïÅ1
-p
-java:S6204¸"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(œçÖß8ÃÌŞîÅ1
+java:S1481".Remove this unused "languages" local variable.(«Ö£•ıÿÿÿÿ8ŞÕ£»Æ1

@@ -1,0 +1,6 @@
+
+v	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³Œ†8Ñ‡“Æ1
+U
+java:S1068"3Remove this unused "countryLanguage" private field.(”şò·øÿÿÿÿ8”Ñ‡“Æ1
+W
+java:S1144":Remove this unused private "toCountryLanguageInfo" method.(˜µ¤Æ8•Ñ‡“Æ1

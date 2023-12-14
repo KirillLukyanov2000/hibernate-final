@@ -1,0 +1,36 @@
+
+j
+java:S1104"NMake id a static final constant or non-public and provide accessors if needed.(†·Ûq8³©“Æ1
+l
+java:S1104"PMake code a static final constant or non-public and provide accessors if needed.(€Î‡68³©“Æ1
+n
+java:S1104"QMake code2 a static final constant or non-public and provide accessors if needed.(Â‡Á‡8´©“Æ1
+m
+java:S1104"PMake name a static final constant or non-public and provide accessors if needed.( şÍ¾8´©“Æ1
+w
+java:S1104"UMake continent a static final constant or non-public and provide accessors if needed.(„¯‚üÿÿÿÿ8´©“Æ1
+t
+java:S1104"RMake region a static final constant or non-public and provide accessors if needed.(º¯¤“ÿÿÿÿÿ8´©“Æ1
+y
+java:S1104"WMake surfaceArea a static final constant or non-public and provide accessors if needed.(ºıÉãùÿÿÿÿ8´©“Æ1
+~
+java:S1104"\Make independenceYear a static final constant or non-public and provide accessors if needed.(É’›Šüÿÿÿÿ8µ©“Æ1
+s
+java:S1104"VMake population a static final constant or non-public and provide accessors if needed.(Ñ½Öº8µ©“Æ1
+|
+java:S1104"ZMake lifeExpectancy a static final constant or non-public and provide accessors if needed.(á¸”üÿÿÿÿ8µ©“Æ1
+l
+java:S1104 "OMake gnp a static final constant or non-public and provide accessors if needed.(Åãõ½8µ©“Æ1
+t
+java:S1104""RMake gnpoId a static final constant or non-public and provide accessors if needed.(–©í‘øÿÿÿÿ8µ©“Æ1
+w
+java:S1104$"UMake localName a static final constant or non-public and provide accessors if needed.(¯ĞÚ¢şÿÿÿÿ8µ©“Æ1
+w
+java:S1104&"ZMake governmentForm a static final constant or non-public and provide accessors if needed.(ÎÌÈ˜8¶©“Æ1
+y
+java:S1104("WMake headOfState a static final constant or non-public and provide accessors if needed.(ÂÄå¦ûÿÿÿÿ8¶©“Æ1
+m
+java:S1104*"PMake city a static final constant or non-public and provide accessors if needed.(‘¡—8ÌÕ¥“Æ1
+r
+java:S1104,"UMake languages a static final constant or non-public and provide accessors if needed.(ØšŠ¨8œö¥“Æ1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³Œ†

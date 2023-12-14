@@ -1,0 +1,12 @@
+
+j
+java:S1104	"NMake id a static final constant or non-public and provide accessors if needed.(†·Ûq8³äı’Æ1
+u
+java:S1104"SMake country a static final constant or non-public and provide accessors if needed.(ºãİüÿÿÿÿ8³äı’Æ1
+q
+java:S1104"TMake language a static final constant or non-public and provide accessors if needed.(‚¼ş8´äı’Æ1
+s
+java:S1104"VMake isOfficial a static final constant or non-public and provide accessors if needed.(§©Ö8´äı’Æ1
+x
+java:S1104"VMake percentage a static final constant or non-public and provide accessors if needed.(ØüÃŞûÿÿÿÿ8´äı’Æ1
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(³Œ†
